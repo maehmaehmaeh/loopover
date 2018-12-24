@@ -3,9 +3,14 @@ The game "Loopover" by carykh made in Processing; but runs faster
 
 Controls:
 's': shuffle the board
+
 'r': reset the board
+
 '+': increase the board size
+
 '-': decrease the board size
+
+'f': saves a screenshot to "screenshot.png"
 
 The program was made for local training of the game; it creates the files "highscores_n.txt"
 and "attempts_n.txt", where 'n' is the ammount of rows of the board. The files keep
